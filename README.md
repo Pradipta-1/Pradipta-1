@@ -90,12 +90,15 @@ I don't want to stop at making code run. I want to understand why it works, what
 <div align="center">
 
 ### LANGUAGES
+
 <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,html,css&perline=7" alt="Java, C, Python, JavaScript, TypeScript, HTML, and CSS">
 
 ### FRONTEND, BACKEND & DATABASES
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,mongodb&perline=7" alt="React, Next.js, Node.js, Express, Tailwind CSS, Vite, and MongoDB">
 
 ### TOOLS & WORKFLOW
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, and Visual Studio Code">
 
 </div>
@@ -129,44 +132,13 @@ A smart parking-sharing platform concept that connects drivers with people and b
 
 `React` `Node.js` `Express` `TypeScript` `Tailwind CSS v4` `MongoDB`
 
+[↗ View GitHub repository](https://github.com/Pradipta-1/ParkShare)
+
 <details>
 <summary><b>Explore the idea</b></summary>
 
 ParkShare aims to turn unused driveways, residential bays, and commercial parking into potential bookable spaces through a convenient full-stack experience.
-</details>
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 GapLens
-**AI-Powered Communication Gap Detector**
-
-An AI-powered platform that analyzes team conversations and meeting transcripts to surface unanswered questions, missed replies, repeated clarification, and unresolved discussions — with quoted conversational evidence for its findings.
-
-`AI-Assisted Analysis` `Transcript Insights` `Cyberpunk UI`
-
-<details>
-<summary><b>Explore the idea</b></summary>
-
-Its cyberpunk / glitch-inspired visual direction uses geometric panels, neon states, and terminal-style telemetry. The core idea is to help teams see what the conversation missed.
-</details>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💪 FitConnect
-**Community Fitness Ecosystem**
-
-A Next.js platform connecting users, trainers, and admins with workout plans, streak tracking, fitness events, messaging, trainer-client relationships, community posts, notifications, and moderation.
-
-`Next.js` `JWT Authentication` `Fitness Tracking` `Community`
-
-<details>
-<summary><b>Explore the feature set</b></summary>
-
-Role-specific dashboards support training routines, workout history, event management, progress monitoring, trainer-client interactions, and administration.
 </details>
 
 </td>
@@ -179,11 +151,31 @@ An interactive learning tool that explains DSA concepts through step-by-step ani
 
 `HTML5` `CSS3` `JavaScript`
 
-[↗ Explore repository](https://github.com/Pradipta-1/DSA-Visualizer)
+[↗ View GitHub repository](https://github.com/Pradipta-1/DSA-Visualizer)
 
 </td>
 </tr>
+
 <tr>
+<td width="50%" valign="top">
+
+### 💪 FitConnect
+**Community Fitness Ecosystem**
+
+A Next.js platform connecting users, trainers, and admins with workout plans, streak tracking, fitness events, messaging, trainer-client relationships, community posts, notifications, and moderation.
+
+`Next.js` `JWT Authentication` `Fitness Tracking` `Community`
+
+[↗ View GitHub repository](https://github.com/Pradipta-1/FitConnect)
+
+<details>
+<summary><b>Explore the feature set</b></summary>
+
+Role-specific dashboards support training routines, workout history, event management, progress monitoring, trainer-client interactions, and administration.
+
+</details>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🍜 Foodie Haven
@@ -193,7 +185,29 @@ A restaurant ordering platform featuring user authentication, cart management, c
 
 `React` `Node.js` `Express` `MongoDB Atlas`
 
-[↗ Explore repository](https://github.com/Pradipta-1/foodie_haven)
+[↗ View GitHub repository](https://github.com/Pradipta-1/foodie_haven)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 GapLens
+**AI-Powered Communication Gap Detector**
+
+GapLens uses AI to spot unanswered questions, repeated clarifications, and unresolved topics in team conversations. It provides evidence-backed insights, a communication health score, an interactive timeline, and exportable reports.
+
+`AI-Assisted Analysis` `Transcript Insights` `Cyberpunk UI`
+
+[↗ View GitHub repository](https://github.com/Pradipta-1/GapLens)
+
+<details>
+<summary><b>Explore the idea</b></summary>
+
+Its cyberpunk / glitch-inspired visual direction uses geometric panels, neon states, and terminal-style telemetry. The core idea is to help teams see what the conversation missed.
+
+</details>
 
 </td>
 <td width="50%" valign="top">
@@ -205,10 +219,11 @@ A browser-based IPL player auction simulator featuring team selection, dynamic b
 
 `HTML5` `CSS3` `JavaScript`
 
-[↗ Explore repository](https://github.com/Pradipta-1/IplAuctionGame)
+[↗ View GitHub repository](https://github.com/Pradipta-1/IplAuctionGame)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -219,6 +234,8 @@ A browser-based arcade game with underwater environments, obstacle avoidance, hi
 
 `HTML5` `CSS3` `JavaScript`
 
+[↗ View GitHub repository](https://github.com/Pradipta-1/flappy)
+
 </td>
 <td width="50%" valign="top">
 
@@ -227,7 +244,7 @@ A browser-based arcade game with underwater environments, obstacle avoidance, hi
 
 A personal website showcasing my background, projects, and developer journey through an animated, space-themed experience.
 
-[↗ Visit live portfolio](https://pradipta-1.github.io/Portfolio/)
+[↗ View GitHub repository](https://github.com/Pradipta-1/Portfolio)
 
 </td>
 </tr>
@@ -279,19 +296,20 @@ Institute of Engineering and Management (IEM), Kolkata · **2025–2029**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradipta-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipta-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages">
+[![GitHub Stats](https://ghstats.dev/api/card?username=Pradipta-1&theme=tokyonight&alltime=true)](https://github.com/Pradipta-1)
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Pradipta-1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+[![Top Languages](https://ghstats.dev/api/langs?username=Pradipta-1&theme=tokyonight&layout=bar&max_langs=8)](https://github.com/Pradipta-1?tab=repositories)
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pradipta-1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph">
+<img width="96%" src="https://ghstats.dev/api/profile?username=Pradipta-1&theme=dark&type=contributions" alt="GitHub contribution activity graph for Pradipta-1">
 
 </div>
 
 <details>
 <summary><b>ℹ️ About these stats</b></summary>
 
-These cards are generated by external community services and may occasionally load slowly, hit rate limits, or be unavailable. Language statistics describe code detected in repositories; they are not a complete measure of a developer's skills.
+These cards are generated from public GitHub activity and refresh automatically; values may be cached briefly. The all-time card avoids presenting year-to-date commit totals as lifetime totals. Language percentages reflect code detected in public repositories, not a complete measure of a developer's skills.
+
+For the official contribution history, visit [my GitHub profile](https://github.com/Pradipta-1).
 
 </details>
 

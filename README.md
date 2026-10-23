@@ -272,12 +272,15 @@ A personal website showcasing my background, projects, and developer journey thr
 **B.Tech in Computer Science Engineering — Artificial Intelligence & Machine Learning**  
 Institute of Engineering and Management (IEM), Kolkata · **2025–2029**
 
+
 | Course / Certification | Provider |
 |---|---|
 | Programming with Generative AI — **Elite** | NPTEL · IISc Bangalore |
 | Meta Front-End Development | Coursera |
 | Problem Solving through Programming in C | NPTEL · IIT Kharagpur |
-| Data Structures and Algorithms | Coursera · Amazon |
+| Data Structures and Algorithms  | Amazon · Coursera
+
+<sub>Continuing to learn through platforms such as Coursera, Udemy, NPTEL, and LinkedIn Learning.</sub>
 
 <sub>Continuing to learn through platforms such as Coursera, Udemy, NPTEL, and LinkedIn Learning.</sub>
 
